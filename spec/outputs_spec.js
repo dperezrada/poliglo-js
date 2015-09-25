@@ -1,4 +1,4 @@
-var poliglo = require('poliglo'),
+var poliglo = require('..'),
     redis = require("redis");
 
 describe("Test Outputs", function() {

@@ -1,4 +1,4 @@
-var poliglo = require('poliglo');
+var poliglo = require('..');
 
 describe("Test Utils", function() {
     var data;

@@ -1,4 +1,4 @@
-var poliglo = require('poliglo');
+var poliglo = require('..');
 
 describe("Read Inputs", function() {
     var worker_workflow_data,
