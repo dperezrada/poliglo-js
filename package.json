@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/poliglo-js/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node spec"
   },
   "author": "Daniel Pérez Rada <dperezrada@gmail.com>",
   "license": "MIT",
