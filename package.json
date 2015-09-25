@@ -1,0 +1,24 @@
+{
+  "name": "poliglo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/poliglo-js/index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "author": "Daniel Pérez Rada <dperezrada@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "redis": "^1.0.0",
+    "request": "^2.62.0",
+    "node-uuid": "1.4.3",
+    "async": "^1.4.2"
+  },
+  "repository": {},
+  "devDependencies": {
+    "jasmine-node": "^1.3.1",
+    "redis-mock": "^0.4.0",
+    "sinon": "^1.16.1"
+  }
+}
